@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+#do better notation.
 """
 Created on Thu Oct 26 20:32:42 2017
 
